@@ -1,0 +1,25 @@
+.tableHead {
+    font-size: "14px";
+    color: "#25282B";
+    text-align:"left";
+    font-style: "normal";
+    font-weight: 600;
+    font-family: "Work Sans";
+    background-color: lightgrey;
+}
+.tableBody {
+    font-style: "normal";
+    font-weight: 500;
+    font-size: "0.8rem";
+    color: "#787878";
+}
+.tablecolor{
+    background-color: "#fbfbfb";
+}
+.tableContainer{
+    margin-top: "20";
+    width: '80%';
+    box-shadow: '0 0 0.5em #E2E2E2';
+    border-radius: 10;
+    border-color: '#E2E2E2';
+}
